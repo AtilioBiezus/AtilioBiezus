@@ -1,11 +1,13 @@
-# AtilioBiezus
+# Atilio Biezus
 
-## Hi devs, 
+## Hi guys, 
 
 ### About me
-I'am a Junior Full-Stack Developer :computer:
+Hi! I'm a Junior Full Stack Developer passionate about building applications that make a difference. With a focus on both front-end and back-end technologies, I'm constantly learning and honing my skills in frameworks like React, React Native, Node.js, and more. I'm eager to contribute to open-source projects and collaborate with other developers to create innovative solutions. 
 
-### I'm working with:
+Feel free to check out my repositories and reach out if you'd like to connect! :computer:
+
+### Technologies:
 - React, React-Native & NodeJs.
 
 ## 🚀 Working at Tog Lab
